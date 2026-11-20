@@ -9,6 +9,7 @@ A sample IPL 2024 Matches Analysis project Developed using Python and Pandas.
 * Display match records
 * calculate team-wise total wins
 * Filter matches by team
+* Toss winner by team
 
 
  
