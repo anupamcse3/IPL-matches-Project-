@@ -1,3 +1,0 @@
-##Requirment
-* panda
-* numpy
